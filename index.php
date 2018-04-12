@@ -9,7 +9,7 @@
 
 <body>
 <?php $Parsedown = new Parsedown();
-echo $Parsedown->text('Hello _Parsedown_!'); ?>
+echo $Parsedown->text('# SALUT'); ?>
 </body>
 
 </html>
