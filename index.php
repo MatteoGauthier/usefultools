@@ -8,8 +8,11 @@
 </head>
 
 <body>
-<?php $Parsedown = new Parsedown();
-echo $Parsedown->text('Hello _Parsedown_!'); ?>
+<?php
+require_once 'libs/Parsedown.php';
+$text = file_get_contents('home.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($text); ?>
 </body>
 
 </html>
