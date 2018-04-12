@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 
 <head>
@@ -8,8 +8,8 @@
 </head>
 
 <body>
-<?php $Parsedown = new Parsedown(); ?>
-<?= echo $Parsedown->text('# SALUT'); ?>
+<?php $Parsedown = new Parsedown();
+echo $Parsedown->text('Hello _Parsedown_!'); ?>
 </body>
 
 </html>
