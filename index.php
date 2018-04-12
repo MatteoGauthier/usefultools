@@ -8,8 +8,8 @@
 </head>
 
 <body>
-<?php $Parsedown = new Parsedown();
-echo $Parsedown->text('# SALUT'); ?>
+<?php $Parsedown = new Parsedown(); ?>
+<?= echo $Parsedown->text('# SALUT'); ?>
 </body>
 
 </html>
