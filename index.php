@@ -18,6 +18,7 @@
   <div id="md">
     <?php
       require_once '\libs\ParsedownExtra.php';
+      require_once '\libs\Parsedown.php';
       $text = file_get_contents('home.md');  
       $ParsedownExtra = new ParsedownExtra();
       echo $ParsedownExtra->text($text);?>
