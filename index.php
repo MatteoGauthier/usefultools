@@ -24,5 +24,4 @@
       echo $ParsedownExtra->text($text);?>
   </div>
 </body>
-s
 </html>
