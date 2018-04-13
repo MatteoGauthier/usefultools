@@ -20,9 +20,9 @@
       require_once 'libs\Parsedown.php';
       require_once 'libs\ParsedownExtra.php';
       $text = file_get_contents('home.md');  
-      $Parsedown = new Parsedown();
-      echo $Parsedown->text($text);?>
+      $ParsedownExtra = new ParsedownExtra();
+      echo $ParsedownExtra->text($text);?>
   </div>
 </body>
-
+s
 </html>
