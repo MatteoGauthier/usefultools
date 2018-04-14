@@ -15,13 +15,17 @@
 </head>
 
 <body>
-  <div id="md">
+
     <?php
       require_once 'libs\Parsedown.php';
-      require_once 'libs\ParsedownExtra.php';
+      // require_once 'libs\ParsedownExtra.php';
       $text = file_get_contents('home.md');  
-      $ParsedownExtra = new ParsedownExtra();
-      echo $ParsedownExtra->text($text);?>
-  </div>
+      $Parsedown = new Parsedown();
+      echo '<div id="md">';
+      echo $Parsedown->text($text);
+      echo '</div>'
+      ?>
+
+
 </body>
 </html>
