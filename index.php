@@ -18,7 +18,7 @@
 
     <?php
       require_once 'libs/Parsedown.php';
-      require_once 'libs/ParsedownExtra.php';
+      include 'libs/ParsedownExtra.php';
 
       $parsedownextra = new ParsedownExtra();
 
