@@ -18,12 +18,13 @@
 
     <?php
       require_once 'libs/Parsedown.php';
+      require_once 'libs/ParsedownExtra.php';
       // require_once 'libs\ParsedownExtra.php';
       $text = file_get_contents('home.md');  
-      $Parsedown = new Parsedown();
+      $ParsedownExtra = new ParsedowExtra();
       echo `<div id="md">`;
-      echo $Parsedown->text($text);
-      echo `</div>`;
+      echo $ParsedownExtra->text($text);
+      echo `</div>`
       ?>
 
 
