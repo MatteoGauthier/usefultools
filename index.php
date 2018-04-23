@@ -15,19 +15,7 @@
 </head>
 
 <body>
-
-    <?php
-      require_once 'libs/Parsedown.php';
-      require_once 'libs/ParsedownExtra.php';
-
-      $parsedownextra = new ParsedownExtra();
-
-      $text = file_get_contents('home.md');  
-
-      echo $parsedownextra->text($text);
-
-      ?>
-
+<a href="home.php">Redirect</a>
 
 </body>
 </html>
