@@ -4,14 +4,7 @@
   <meta charset="utf-8">
   <title></title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
-  <style>
-    * {
-      font: Roboto;
-    }
-    #md {
-      font-family: Roboto, 'Roboto', Serif; 
-    }
-  </style>
+<link rel="stylesheet" href="css/master.css">
 </head>
 
 <body>
