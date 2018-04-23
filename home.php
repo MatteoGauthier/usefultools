@@ -27,7 +27,7 @@
 
     <?php 
 require "vendor/autoload.php";
-$text = file_get_contents('res\markdown\home.md');  
+$text = file_get_contents('res/markdown/home.md');  
 
 $Extra = new ParsedownExtra();
 echo('<article class="markdown-body"><div class="content">');
