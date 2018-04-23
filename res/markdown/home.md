@@ -1,6 +1,6 @@
 # Useful Tools :
 
-Liste de différent outils utiles (logiciels , site internet) créé par [Mattèo](https://github.com/MattixNow)
+Liste de différent outils utiles (logiciels , site internet) créé par [Mattèo](https://github.com/MattixNow).
 
 ### <u>Logiciels de nettoyage / Antivirus</u> :
 
