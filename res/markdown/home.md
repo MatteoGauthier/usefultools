@@ -1,5 +1,5 @@
 # Useful Tools : {#1}
-![Last commit](https://img.shields.io/github/last-commit/MattixNow/usefultools/res/markdown/home.md.svg)
+![Last commit](https://img.shields.io/github/last-commit/MattixNow/usefultools.svg)
 
 Liste de différent outils utiles gratuit et pour le moins accesible créé par [Mattèo](https://github.com/MattixNow).
 
