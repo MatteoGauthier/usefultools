@@ -1,7 +1,7 @@
 # Useful Tools : {#1}
 [![GitHub last commit](https://img.shields.io/github/last-commit/mattixnow/usefultools.svg)](https://github.com/mattixnow/usefultools)
 
-Liste de différent outils utiles gratuit et pour le moins accesible créé par [Mattèo](https://github.com/MattixNow).
+Liste de différent outils utiles gratuit et pour le moins accessible créé par [Mattèo](https://github.com/MattixNow).
 
 #### Les outils présentés sont classés en plusieurs catégories :
 
