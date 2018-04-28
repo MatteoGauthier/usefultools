@@ -2,9 +2,8 @@
 
 <head>
 
-    <link rel="stylesheet" href="style/master.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style/github-markdown.css">
+    <link rel="stylesheet" href="ressources_front/style/github-markdown.css">
     <style>
         .markdown-body {
             box-sizing: border-box;
@@ -13,13 +12,14 @@
             margin: 0 auto;
             padding: 45px;
         }
-
+        
         @media (max-width: 767px) {
             .markdown-body {
                 padding: 15px;
             }
         }
-    </style>
+        </style>
+        <link rel="stylesheet" href="ressources_front/style/master.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118325156-1"></script>
 <script>
@@ -37,7 +37,7 @@
 
     <?php 
 require "vendor/autoload.php";
-$text = file_get_contents('res/markdown/home.md');  
+$text = file_get_contents('ressources_back/markdown/home.md');  
 
 $Extra = new ParsedownExtra();
 echo('<article class="markdown-body"><div class="content">');
