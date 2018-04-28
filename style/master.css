@@ -1,0 +1,13 @@
+body {
+    background-color: #fcffff
+}
+
+.markdown-body {
+
+    box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.2);
+    background-color: #efefef0a;
+    border: solid;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 5px;
+}
