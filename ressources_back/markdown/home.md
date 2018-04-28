@@ -1,5 +1,5 @@
 # Useful Tools : {#1}
-![https://google.com](https://img.shields.io/github/last-commit/MattixNow/usefultools.svg)
+[![GitHub last commit](https://img.shields.io/github/last-commit/mattixnow/usefultools.svg)](https://github.com/mattixnow/usefultools)
 
 Liste de différent outils utiles gratuit et pour le moins accesible créé par [Mattèo](https://github.com/MattixNow).
 
