@@ -27,7 +27,7 @@ Liste de différent outils utiles gratuit et pour le moins accesible créé par 
 ### <u>Bureautique :</u> {#office}
 
 ### <u>Développement :</u> {#dev}
-- Atom.io
+- Atom.io [download](https://atom.io/)
 
 ------
 *C'est vide ou il en manque selon vous ? Proposez vos [suggestions](https://github.com/MattixNow/usefultools/issues/new "Décrivez votre suggestion en publiant une issue sur le GitHub de la page") sur le GitHub de la page.*
