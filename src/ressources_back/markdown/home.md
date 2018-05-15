@@ -6,6 +6,7 @@ Liste de différent outils utiles gratuit et pour le moins accessible créé par
 
 #### Les outils présentés sont classés en plusieurs catégories :
 
+
 | Types d'outils    | Raccourci         |
 | ----------------- | ----------------- |
 | Bureautique       | [link](#office)   |
