@@ -1,4 +1,4 @@
-# Useful Tools : {#1}
+# Useful Tools Desktop : {#1}
 
 [![FogView Project approved](https://img.shields.io/badge/FogView%20Quality-approved-00cc66.svg)](https://fogview.web-edu.fr)
 
@@ -16,16 +16,17 @@ Liste de différent outils utiles gratuit et pour le moins accessible créé par
 
 ### <u>Logiciels de nettoyage / Antivirus</u> : {#security}
 
-- ADWCleaner ([download](https://toolslib.net/downloads/viewdownload/1-adwcleaner/))
-- Malwarebyte ([download](https://toolslib.net/downloads/viewdownload/309-malwarebytes/))
-- CCleaner ([download](https://www.ccleaner.com/ccleaner/download))
+- ADWCleaner [download](https://toolslib.net/downloads/viewdownload/1-adwcleaner/)
+- Malwarebyte [download](https://toolslib.net/downloads/viewdownload/309-malwarebytes/)
+- CCleaner [download](https://www.ccleaner.com/ccleaner/download)
  
 ### <u>Logiciels d'édition / montage</u> : {#edition}
  
- - Paint.Net ([download](https://www.dotpdn.com/files/paint.net.4.0.21.install.zip))
- 
+ - Paint.Net [download](https://www.dotpdn.com/files/paint.net.4.0.21.install.zip)
+ - Gimp [download](https://www.gimp.org/downloads/)
 
 ### <u>Bureautique :</u> {#office}
+- LibreOffice [download](https://fr.libreoffice.org/download/libreoffice-stable/)
 
 ### <u>Développement :</u> {#dev}
 
