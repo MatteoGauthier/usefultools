@@ -12,9 +12,9 @@
 ## Plateformes utilisés / Platforms used
 > Syntax Help / Aide sur la syntaxe utilisée :arrow_right: [FogView Syntax Help](https://github.com/FogViewLab/Projects/blob/master/Syntax.md)
 
-| Système d'exploitation / OS                                   | Status                      |
-| ------------------------------------------------------------- | :-------------------------: |
-| [Windows](Windows.md) | :white_check_mark: :wrench: |
-| [OSX / MacOS](osx.md) | :pencil:                    |
-| [IOS](ios.md)         | :pencil:                    |
-| [Android](android.md) | :pencil:                    |
+| Système d'exploitation / OS | Status                      |
+| --------------------------- | :-------------------------: |
+| [Windows](Windows.md)       | :white_check_mark: :wrench: |
+| [OSX / MacOS](osx.md)       | :pencil:                    |
+| [IOS](ios.md)               | :pencil:                    |
+| [Android](android.md)       | :pencil:                    |
