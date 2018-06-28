@@ -72,3 +72,9 @@ FFmpeg LGPLv2.1 https://ffmpeg.org
 FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.
 ***
 Helped by https://trac.ffmpeg.org/wiki/Scaling
+
+## Awesome List
+
+I was inspired by https://github.com/sindresorhus/awesome
+
+https://awesome.re
