@@ -15,6 +15,6 @@
 | Système d'exploitation / OS | Status                      |
 | --------------------------- | :-------------------------: |
 | [Windows](Windows.md)       | :white_check_mark: :wrench: |
-| [OSX / MacOS](osx.md)       | :pencil:                    |
-| [IOS](ios.md)               | :pencil:                    |
-| [Android](android.md)       | :pencil:                    |
+| [OSX / MacOS](OSX.md)       | :pencil:                    |
+| [IOS](IOS.md)               | :pencil:                    |
+| [Android](Android.md)       | :pencil:                    |
