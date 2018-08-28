@@ -1,6 +1,6 @@
 [![FogView Project approved](https://img.shields.io/badge/FogView%20Quality-approved-00cc66.svg)](https://fogview.web-edu.fr) [![GitHub last commit](https://img.shields.io/github/last-commit/mattixnow/usefultools.svg)](https://github.com/mattixnow/usefultools)
 <div align="center">
-<img src="https://raw.githubusercontent.com/MattixNow/usefultools/master/res/UsefulTools%20Hero.svg" alt="Hero" id="hero">
+<img src="https://github.com/MattixNow/usefultools/blob/master/res/UsefulTools%20Hero.svg" alt="Hero" id="hero">
 <br>
 <br>
 
