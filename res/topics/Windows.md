@@ -2,7 +2,7 @@
 
 [![FogView Project approved](https://img.shields.io/badge/FogView%20Quality-approved-00cc66.svg)](https://fogview.web-edu.fr)
 
-Liste de différent outils utiles gratuit et pour le moins accessible créé par [Mattèo](https://github.com/MattixNow).
+Liste de différent outils utiles gratuit et pour le moins accessible créé par [Mattèo](https://github.com/MatteoGauthier).
 
 #### Les outils présentés sont classés en plusieurs catégories :
 
@@ -34,5 +34,5 @@ Liste de différent outils utiles gratuit et pour le moins accessible créé par
 - Atom.io [download](https://atom.io/)
 
 ------
-*C'est vide ou il en manque selon vous ? Proposez vos [suggestions](https://github.com/MattixNow/usefultools/issues/new "Décrivez votre suggestion en publiant une issue sur le GitHub de la page") sur le GitHub de la page.*
+*C'est vide ou il en manque selon vous ? Proposez vos [suggestions](https://github.com/MatteoGauthier/usefultools/issues/new "Décrivez votre suggestion en publiant une issue sur le GitHub de la page") sur le GitHub de la page.*
 <!-- Add info box on download -->
